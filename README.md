@@ -9,14 +9,14 @@
 
 ### Backend (Express)
 
-- 'express'
+- express
 - dotenv
 - pg
 - cors
 - bcrypt
 - jsonwebtoken
 
-**Dev dependencies:**
+#### Dev dependencies:
 
 - nodemon
 - vitest
