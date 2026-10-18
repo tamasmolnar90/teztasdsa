@@ -5,7 +5,7 @@
 - Node v24
 - Postgresql v18
 
-### Dependencies
+## Dependencies
 
 ### express
 
