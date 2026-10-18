@@ -7,7 +7,7 @@
 
 ## Dependencies
 
-### backend (express)
+### Backend (express)
 
 - express
 - nodemon
@@ -18,7 +18,7 @@
 - jsonwebtoken
 - vitest
 
-### frontend (react)
+### Frontend (react)
 
 - react-router
 - axios
