@@ -1,11 +1,11 @@
 # Bunstruction
 
-## Conditions
+### Conditions
 
-Node v24
-Postgresql v18
+- Node v24
+- Postgresql v18
 
-## Dependencies
+### Dependencies
 
 ### express
 
