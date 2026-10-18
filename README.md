@@ -15,11 +15,9 @@
 - cors
 - bcrypt
 - jsonwebtoken
-
-#### Dev dependencies:
-
-- nodemon
-- vitest
+- **Dev dependencies:**
+  - nodemon
+  - vitest
 
 ### Frontend (React)
 
