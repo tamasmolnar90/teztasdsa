@@ -1,25 +1,27 @@
 # Bunstruction
 
-### Conditions
+### Requirements
 
 - Node v24
 - Postgresql v18
 
 ## Dependencies
 
-### Backend (express)
+### Backend (Express)
 
 - express
-- nodemon
 - dotenv
 - pg
 - cors
 - bcrypt
 - jsonwebtoken
-- vitest
 
-### Frontend (react)
+**Dev dependencies:** nodemon, vitest
 
+### Frontend (React)
+
+- react
+- react-dom
 - react-router
 - axios
 - react-icons
